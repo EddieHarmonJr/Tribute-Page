@@ -14,3 +14,11 @@ Some techniques/skills displayed include:
  2. Using hyperlinks to connect to outside webpages on different window tabs by utilizing the "target="_blank" value.
  3. Using emojis in place of unordered list bullet points.
  4. Importing Google fonts to change the font of the heading on the page.
+
+
+To see the entire page:
+https://gfycat.com/ConfusedBabyishInvisiblerail
+
+
+To see the responsiveness:
+https://gfycat.com/LastEuphoricFulmar
