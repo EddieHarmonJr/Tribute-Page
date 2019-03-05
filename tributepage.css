@@ -1,0 +1,55 @@
+html,body {
+  text-align: center;
+  min-width: 260px;
+}
+
+#main {
+  background-color: gainsboro;
+  border-radius: 5px;
+  padding: 15px;
+  margin: 30px auto;
+}
+
+#title {
+
+}
+
+#img-div {
+  display: flex;
+  background-color: white;
+  justify-content: center;
+  align-items: center;
+  margin: 20px 10px 20px 10px;
+}
+
+#image {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: auto;
+}
+
+#tribute-info {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+#facts {
+  margin: 0 auto;
+  text-align: left;
+  max-width: 550px;
+}
+
+li {
+  margin: 10px;
+}
+
+#quote {
+
+}
+
+#quote-author {
+
+}
